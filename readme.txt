@@ -1,0 +1,1 @@
+this project is inspired and and the ready temaplate is from a course on udemy the part i worked on is the part with the js logic
